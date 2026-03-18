@@ -74,7 +74,7 @@ Netflix focuses heavily on scaling movie production globally, while maintaining 
 netflix-analysis/
 │
 ├── dashboard.pbix
-├── dashboard.png
+├── dashboard.jpeg
 ├── README.md
 └── insights.md
 
