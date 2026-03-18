@@ -69,11 +69,14 @@ Netflix focuses heavily on scaling movie production globally, while maintaining 
 
 ---
 
-## 📂 Project Files
+## 📁 Project Structure
 
-* `Netflix Dashboard.pbix` → Power BI file
-* `screenshot.png` → Dashboard preview
-* `insights.md` → Detailed insights
+netflix-analysis/
+│
+├── dashboard.pbix
+├── dashboard.png
+├── README.md
+└── insights.md
 
 ---
 
